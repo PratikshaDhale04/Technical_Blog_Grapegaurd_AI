@@ -151,7 +151,8 @@ Downy mildew spreads through:
 
 ## 👩‍💻 Author
 
-**Pratiksha Sunil Dhale**  
+**Pratiksha  Sunil Dhale**
+
 ---
 
 ## 👨‍🏫 Guided By
